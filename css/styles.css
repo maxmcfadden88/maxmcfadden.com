@@ -19,6 +19,14 @@ main {
   left: 20px;
 }
 
+.projects {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  position: fixed;
+  top: 40px;
+  left: 20px;
+}
+
 body,
 button {
   background: #fff;
